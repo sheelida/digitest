@@ -1,0 +1,5 @@
+SetEnv DBHOST localhost
+SetEnv DBUSER newhost
+SetEnv DBPASSWORD 1234
+SetEnv DBNAME dbtest_shel
+SetEnv KEY teste123
